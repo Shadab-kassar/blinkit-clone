@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.traingle-cls{
+   display: inline-block;
+   transform: rotate(180deg);
+}
+
+.slick-slide > div {
+  margin: 0 15px 0px 0px ;
+}
+

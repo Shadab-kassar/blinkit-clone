@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "@flaticon/flaticon-uicons/css/all/all.css";
+@import "@flaticon/flaticon-uicons/css/regular/rounded.css";  /* example */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
